@@ -1,4 +1,4 @@
-package com.kleberaluizio.springboot.models;
+package com.kleberaluizio.springboot.model;
 
 import jakarta.persistence.*;
 

@@ -1,6 +1,6 @@
-package com.kleberaluizio.springboot.repositories;
+package com.kleberaluizio.springboot.model;
 
-import com.kleberaluizio.springboot.models.ProductModel;
+import com.kleberaluizio.springboot.model.ProductModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
