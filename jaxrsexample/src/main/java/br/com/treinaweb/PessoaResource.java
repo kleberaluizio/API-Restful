@@ -20,8 +20,12 @@ public class PessoaResource {
     @GET
     @Path("{id}")
     @Produces(MediaType.APPLICATION_JSON)
-    public Pessoa getById(@PathParam("id") int id){
-        return _repository.Get(id);
+    public Response getById(@PathParam("id") int id){
+        Pessoa p = _repository.Get(id);
+        if(p == null){
+            return Response.status(Response.Status.NOT_FOUND).build();
+        }
+        return Response.status(Response.Status.OK).entity(p).build();
     }
 
     @POST
