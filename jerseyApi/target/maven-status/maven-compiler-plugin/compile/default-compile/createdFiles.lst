@@ -1,2 +1,5 @@
-com/kleberaluizio/coffee/Main.class
+com/kleberaluizio/coffee/model/Coffee.class
 com/kleberaluizio/coffee/MyResource.class
+com/kleberaluizio/coffee/controller/CoffeeResource.class
+com/kleberaluizio/coffee/Main.class
+com/kleberaluizio/coffee/model/CoffeeRepository.class

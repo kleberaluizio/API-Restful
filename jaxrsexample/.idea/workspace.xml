@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc899b11-7fe2-4193-b7b6-8a73a40b7ee5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/controller/CoffeeResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/model/repository/CoffeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/controller/CoffeeResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/model/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/model/CoffeeRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/MyResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/MyResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/src/main/java/com/kleberaluizio/coffee/model/CoffeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/MyResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/target/classes/com/kleberaluizio/coffee/MyResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jerseyApi/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../jerseyApi/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +53,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/media/kleber/Novo volume/Meus Documentos/ADS_2022/MicheleBrito/API-Restful/jerseyApi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/kleber/Novo volume/Meus Documentos/ADS_2022/MicheleBrito/API-Restful/jerseyApi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +80,11 @@
       <workItem from="1693565437807" duration="609000" />
       <workItem from="1693584010081" duration="1433000" />
       <workItem from="1693586145803" duration="802000" />
+      <workItem from="1693590078789" duration="13000" />
+      <workItem from="1693590390383" duration="590000" />
+      <workItem from="1693659642809" duration="1754000" />
+      <workItem from="1693668650426" duration="10000" />
+      <workItem from="1693671344405" duration="10000" />
     </task>
     <servers />
   </component>
